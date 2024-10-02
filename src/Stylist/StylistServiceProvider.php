@@ -17,7 +17,7 @@ class StylistServiceProvider extends AggregateServiceProvider
      * @var array
      */
     protected $providers = [
-        'Collective\Html\HtmlServiceProvider'
+        'Spatie\Html\HtmlServiceProvider'
     ];
 
     /**
