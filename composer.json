@@ -12,14 +12,14 @@
     }
   ],
   "require": {
-    "php": "^7.0",
-    "laravelcollective/html": "~5.5",
-    "illuminate/support": "~5.5"
+    "php": "^8.0",
+    "spatie/laravel-html": "^3.0",
+    "illuminate/support": "^10.0"
   },
   "require-dev": {
-    "mockery/mockery": "^0.9.5",
-    "orchestra/testbench": "~3.0",
-    "phpunit/phpunit": "~6.0"
+    "mockery/mockery": "^1.6",
+    "orchestra/testbench": "^9.5",
+    "phpunit/phpunit": "^9.6"
   },
   "autoload": {
     "psr-4": {
